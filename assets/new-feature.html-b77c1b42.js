@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,a as n}from"./app-57542e83.js";const o={},_=n("p",null,"dart中的新特性",-1),a=[_];function r(s,l){return t(),c("div",null,a)}const f=e(o,[["render",r],["__file","new-feature.html.vue"]]);export{f as default};

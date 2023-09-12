@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,a as o}from"./app-57542e83.js";const c={},_=o("p",null,"SSO是个啥玩意",-1),a=[_];function n(r,l){return s(),t("div",null,a)}const d=e(c,[["render",n],["__file","what-is-sso.html.vue"]]);export{d as default};

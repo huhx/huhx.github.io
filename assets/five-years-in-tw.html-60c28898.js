@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a as c}from"./app-57542e83.js";const n={},o=c("p",null,"在TW的这五年",-1),_=[o];function a(r,l){return t(),s("div",null,_)}const f=e(n,[["render",a],["__file","five-years-in-tw.html.vue"]]);export{f as default};

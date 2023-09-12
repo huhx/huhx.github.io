@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as t,a as s}from"./app-57542e83.js";const o={},r=s("p",null,"关于微服务",-1),_=[r];function a(n,i){return c(),t("div",null,_)}const d=e(o,[["render",a],["__file","what-is-microservice.html.vue"]]);export{d as default};

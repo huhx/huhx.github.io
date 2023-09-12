@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a as n}from"./app-57542e83.js";const a={},c=n("p",null,"什么是设计模式",-1),o=[c];function _(r,l){return t(),s("div",null,o)}const d=e(a,[["render",_],["__file","what-is-design-pattern.html.vue"]]);export{d as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-84ec5092","path":"/design/pattern/","title":"Pattern","lang":"en-US","frontmatter":{"title":"Pattern","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":"","copyright":{"author":"huhx","license":"MIT"}}');export{e as data};

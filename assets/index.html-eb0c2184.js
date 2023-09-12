@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-43f5a42c","path":"/android/flutter/","title":"Flutter","lang":"en-US","frontmatter":{"title":"Flutter","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":"","copyright":{"author":"huhx","license":"MIT"}}');export{e as data};

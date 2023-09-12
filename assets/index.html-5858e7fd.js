@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-69afbe6c","path":"/tool/gradle/","title":"Gradle","lang":"en-US","frontmatter":{"title":"Gradle","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":"","copyright":{"author":"huhx","license":"MIT"}}');export{e as data};

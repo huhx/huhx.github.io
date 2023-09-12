@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a as c}from"./app-57542e83.js";const _={},n=c("p",null,"装修的心理历程",-1),s=[n];function a(r,l){return o(),t("div",null,s)}const d=e(_,[["render",a],["__file","2023-decoration.html.vue"]]);export{d as default};

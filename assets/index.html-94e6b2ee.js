@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-28a276da","path":"/tool/macos/","title":"Macos","lang":"en-US","frontmatter":{"title":"Macos","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":"","copyright":{"author":"huhx","license":"MIT"}}');export{e as data};

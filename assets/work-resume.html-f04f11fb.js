@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as s}from"./app-57542e83.js";const c={},_=s("p",null,"我的it生涯",-1),r=[_];function n(a,l){return t(),o("div",null,r)}const m=e(c,[["render",n],["__file","work-resume.html.vue"]]);export{m as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,a as s}from"./app-57542e83.js";const c={},o=s("p",null,"kafka简介",-1),_=[o];function n(r,l){return a(),t("div",null,_)}const i=e(c,[["render",n],["__file","what-is-kafka.html.vue"]]);export{i as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as c}from"./app-57542e83.js";const n={},_=c("p",null,"怎么编写Gradle的插件",-1),r=[_];function s(l,a){return t(),o("div",null,r)}const d=e(n,[["render",s],["__file","how-to-write-plugin.html.vue"]]);export{d as default};

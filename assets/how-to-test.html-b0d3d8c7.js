@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as s}from"./app-57542e83.js";const c={},_=s("p",null,"如何编写测试",-1),n=[_];function a(r,l){return t(),o("div",null,n)}const f=e(c,[["render",a],["__file","how-to-test.html.vue"]]);export{f as default};

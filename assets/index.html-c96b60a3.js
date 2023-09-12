@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e39fab2c","path":"/essay/other/","title":"Other","lang":"en-US","frontmatter":{"title":"Other","article":false,"feed":false,"sitemap":false,"seo":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"copyright":{"author":"huhx","license":"MIT"}}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as t,a as o}from"./app-57542e83.js";const _={},s=o("p",null,"jvm垃圾收集器",-1),n=[s];function a(r,l){return c(),t("div",null,n)}const d=e(_,[["render",a],["__file","jvm-gc.html.vue"]]);export{d as default};

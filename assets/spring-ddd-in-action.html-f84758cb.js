@@ -1,0 +1,1 @@
+import{_ as e,o as n,c as t,a as c}from"./app-57542e83.js";const o={},s=c("p",null,"DDD在spring项目的实战",-1),_=[s];function r(a,i){return n(),t("div",null,_)}const l=e(o,[["render",r],["__file","spring-ddd-in-action.html.vue"]]);export{l as default};

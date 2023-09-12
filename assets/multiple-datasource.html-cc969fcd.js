@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,a as o}from"./app-57542e83.js";const s={},a=o("p",null,"spring中多数据源的配置",-1),_=[a];function l(n,r){return t(),c("div",null,_)}const u=e(s,[["render",l],["__file","multiple-datasource.html.vue"]]);export{u as default};

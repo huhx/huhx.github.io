@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a as c}from"./app-57542e83.js";const o={},_=c("p",null,"一文了解DDD",-1),a=[_];function n(d,r){return t(),s("div",null,a)}const i=e(o,[["render",n],["__file","what-is-ddd.html.vue"]]);export{i as default};

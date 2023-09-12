@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as o,a as e,b as r}from"./app-57542e83.js";const c={},h=e("h3",{id:"hello-i-am-huhx",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#hello-i-am-huhx","aria-hidden":"true"},"#"),r(" Hello I am huhx")],-1),n=[h];function s(l,_){return t(),o("div",null,n)}const d=a(c,[["render",s],["__file","intro.html.vue"]]);export{d as default};

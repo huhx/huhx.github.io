@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a as c}from"./app-57542e83.js";const n={},s=c("p",null,"In kotlin",-1),_=[s];function a(l,r){return o(),t("div",null,_)}const f=e(n,[["render",a],["__file","scope-function.html.vue"]]);export{f as default};
